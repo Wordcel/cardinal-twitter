@@ -1,6 +1,6 @@
 {
-  "name": "cardinal-twitter-identity",
-  "version": "1.0.0",
+  "name": "cardinal-twitter",
+  "version": "1.0.3",
   "author": "Kunal Bagaria <kb24x7@gmail.com>",
   "license": "MIT",
   "files": ["lib/**/*"],
