@@ -1,0 +1,26 @@
+{
+  "name": "cardinal-twitter-identity",
+  "version": "1.0.0",
+  "author": "Kunal Bagaria <kb24x7@gmail.com>",
+  "license": "MIT",
+  "files": ["lib/**/*"],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"No tests added\" && exit 1",
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.8.2"
+  },
+  "dependencies": {
+    "@cardinal/namespaces": "^4.1.56",
+    "@solana/web3.js": "^1.56.2",
+    "axios": "^0.27.2"
+  }
+}
