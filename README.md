@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-yarn add cardinal-twitter-identity
+yarn add cardinal-twitter
 ```
 
 
