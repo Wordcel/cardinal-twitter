@@ -9,7 +9,7 @@ yarn add cardinal-twitter-identity
 
 ## Usage
 ```ts
-import { getIdentity } from 'cardinal-twitter-identity';
+import { getIdentity } from 'cardinal-twitter';
 import { PublicKey } from '@solana/web3.js';
 
 async function main() {
